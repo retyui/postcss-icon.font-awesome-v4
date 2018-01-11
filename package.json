@@ -1,0 +1,8 @@
+{
+  "name": "postcss-icon.font-awesome-v4",
+  "version": "0.0.1",
+  "main": "font-awesome-v4.js",
+  "repository": "https://github.com/retyui/postcss-icon.font-awesome-4.git",
+  "author": "retyui <vamnemne@gmail.com>",
+  "license": "MIT"
+}
