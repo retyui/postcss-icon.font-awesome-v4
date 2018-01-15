@@ -2,8 +2,6 @@
 
 Icon set data for [postcss-icon plugin](https://github.com/retyui/postcss-icon), based on [Font Awesome](http://fontawesome.io/)
 
-[![postcss-icon.font-awesome-v4](https://raw.githubusercontent.com/retyui/postcss-icon.font-awesome-v4/master/preview.png)](https://retyui.github.io/postcss-icon/font-awesome-v4/)
-
 ## Install
 
 ```bash
